@@ -8,14 +8,14 @@
 
 <!-- Neofetch-style Intro (Placeholder - replace with your own image URL) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/main/assets/neofetch.gif" alt="Neofetch" width="400" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug_fzlya/main/assets/neofetch.gif" alt="Neofetch" width="400" style="border-radius: 8px;" />
 </div>
 
 <!-- Tagline -->
-<h3 align="center" style="color: #E0E0E0;">💻 Building secure backends, decentralized apps, and intelligent systems.</h3>
+<h3 align="center" style="color: #E0E0E0;">Building secure backends, decentralized apps, and intelligent systems.</h3>
 
 <!-- Tech Stack -->
-<h3 align="center" style="color: #E0E0E0;">🛠️ Languages and Tools</h3>
+<h3 align="center" style="color: #E0E0E0;">Languages and Tools</h3>
 <div align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,7 +44,7 @@
 </div>
 
 <!-- GitHub Stats Section -->
-<h3 align="center" style="color: #E0E0E0;">📊 GitHub Stats</h3>
+<h3 align="center" style="color: #E0E0E0;">GitHub Stats</h3>
 <div align="center">
   <!-- Dark Theme + Dark Purple Background to match window -->
   <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=4A00E0&icon_color=4A00E0&text_color=E0E0E0" width="48%" />
@@ -60,7 +60,7 @@
 </div>
 
 <!-- Contact Section (Outside the window) -->
-<h3 align="center" style="color: #E0E0E0;">📫 Connect with Me</h3>
+<h3 align="center" style="color: #E0E0E0;">Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yassine-adja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
