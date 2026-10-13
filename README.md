@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=fzlya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- Neofetch-style Intro -->
@@ -49,7 +49,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/mazighadja1996-debug/mazighadja1996-debug_fzlya/blob/main/.github/workflows/main.yml" alt="Snake animation" width="100%" />
+  <img src="https://github.com/mazighadja1996-debug/mazighadja1996-debug_fzlya/output/github-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <!-- Contact Section -->
