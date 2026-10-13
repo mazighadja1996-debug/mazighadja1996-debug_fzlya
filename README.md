@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:1A0033&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- Neofetch-style Intro (Placeholder - replace with your own image URL if you have one) -->
@@ -43,16 +43,16 @@
 <!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <!-- FIXED USERNAME HERE -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <!-- FIXED USERNAME HERE -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazighadja1996-debug&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <!-- UPDATED: Dark Theme + Dark Purple Background -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=dark&hide_border=true&bg_color=0D0814" width="48%" />
+  <!-- UPDATED: Dark Theme + Dark Purple Background -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazighadja1996-debug&theme=dark&hide_border=true&bg_color=0D0814" width="48%" />
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
-  <!-- Make sure the snake action ran successfully first! -->
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/mazighadja1996-debug_fzlya/output/github-snake.svg" alt="Snake animation" width="100%" />
+  <!-- FIXED URL: Changed _fzlya to /fzlya -->
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <!-- Contact Section -->
@@ -71,5 +71,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:1A0033&height=100&section=footer" width="100%" />
 </div>
