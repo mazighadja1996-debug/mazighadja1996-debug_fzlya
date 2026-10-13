@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=fzlya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- Neofetch-style Intro (Placeholder - replace with your own image URL if you have one) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/main/assets/neofetch.gif" alt="Neofetch" width="400" />
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug_fzlya/main/assets/neofetch.gif" alt="Neofetch" width="400" />
 </div>
 
 <!-- Tagline -->
@@ -52,7 +52,7 @@
 <!-- Snake Animation -->
 <div align="center">
   <!-- Make sure the snake action ran successfully first! -->
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/output/github-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug_fzlya/output/github-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <!-- Contact Section -->
