@@ -56,7 +56,7 @@
 
 <!-- Snake Animation (Outside the window, sitting on the main background) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug_fzlya/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <!-- Contact Section (Outside the window) -->
