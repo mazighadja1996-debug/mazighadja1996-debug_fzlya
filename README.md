@@ -50,10 +50,10 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
+<!--<div align="center">
   <!-- Make sure the snake action ran successfully first! -->
   <img src="https://raw.githubusercontent.com/mazighadja1996-debug_fzlya/output/github-snake.svg" alt="Snake animation" width="100%" />
-</div>
+</div>-->
 
 <!-- Contact Section -->
 <h3 align="center">📫 Connect with Me</h3>
