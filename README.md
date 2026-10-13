@@ -1,17 +1,17 @@
-<!-- Dark Terminal-Style Header -->
+<!-- Header (Waves - Dark Purple to Dark Blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0814,100:1A0033&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:0D0814&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<!-- Dark Terminal Background Wrapper (Simulated) -->
-<div style="background-color: #0D0814; padding: 20px; border-radius: 10px;">
+<!-- START OF THE DARK WINDOW CONTAINER -->
+<div style="background-color: #111111; padding: 30px; border-radius: 15px; border: 1px solid #4A00E0;">
 
-<!-- Neofetch-style Intro (Dark Terminal Vibe) -->
+<!-- Neofetch-style Intro (Placeholder - replace with your own image URL) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/main/assets/neofetch.gif" alt="Neofetch" width="600" style="border: 2px solid #6A00FF; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/main/assets/neofetch.gif" alt="Neofetch" width="400" style="border-radius: 8px;" />
 </div>
 
-<!-- Tagline (Light text for dark background) -->
+<!-- Tagline -->
 <h3 align="center" style="color: #E0E0E0;">💻 Building secure backends, decentralized apps, and intelligent systems.</h3>
 
 <!-- Tech Stack -->
@@ -46,16 +46,20 @@
 <!-- GitHub Stats Section -->
 <h3 align="center" style="color: #E0E0E0;">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=dark&hide_border=true&bg_color=0D0814&title_color=6A00FF&icon_color=6A00FF&text_color=E0E0E0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazighadja1996-debug&theme=dark&hide_border=true&bg_color=0D0814&title_color=6A00FF&text_color=E0E0E0" width="48%" />
+  <!-- Dark Theme + Dark Purple Background to match window -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=4A00E0&icon_color=4A00E0&text_color=E0E0E0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazighadja1996-debug&theme=dark&hide_border=true&bg_color=111111&title_color=4A00E0&text_color=E0E0E0" width="48%" />
 </div>
 
-<!-- Snake Animation -->
+<!-- END OF THE DARK WINDOW CONTAINER -->
+</div>
+
+<!-- Snake Animation (Outside the window, sitting on the main background) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
-<!-- Contact Section -->
+<!-- Contact Section (Outside the window) -->
 <h3 align="center" style="color: #E0E0E0;">📫 Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yassine-adja" target="_blank">
@@ -69,7 +73,7 @@
   </a>
 </div>
 
-<!-- Footer -->
+<!-- Footer (Waves - Dark Purple to Dark Blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0814,100:1A0033&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:0D0814&height=100&section=footer" width="100%" />
 </div>
