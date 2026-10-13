@@ -1,6 +1,6 @@
 <!-- Header (Waves - Dark Purple to Dark Blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:0D0814&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:0D0814&height=200&section=header&text=fzlya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- START OF THE DARK WINDOW CONTAINER -->
