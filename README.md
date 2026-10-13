@@ -1,18 +1,21 @@
-<!-- Header -->
+<!-- Dark Terminal-Style Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:1A0033&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0814,100:1A0033&height=200&section=header&text=Yassine%20Adja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Blockchain%20%7C%20AI%20%7C%20Pwn%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<!-- Neofetch-style Intro (Placeholder - replace with your own image URL if you have one) -->
+<!-- Dark Terminal Background Wrapper (Simulated) -->
+<div style="background-color: #0D0814; padding: 20px; border-radius: 10px;">
+
+<!-- Neofetch-style Intro (Dark Terminal Vibe) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/main/assets/neofetch.gif" alt="Neofetch" width="400" />
+  <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/main/assets/neofetch.gif" alt="Neofetch" width="600" style="border: 2px solid #6A00FF; border-radius: 8px;" />
 </div>
 
-<!-- Tagline -->
-<h3 align="center">💻 Building secure backends, decentralized apps, and intelligent systems.</h3>
+<!-- Tagline (Light text for dark background) -->
+<h3 align="center" style="color: #E0E0E0;">💻 Building secure backends, decentralized apps, and intelligent systems.</h3>
 
 <!-- Tech Stack -->
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center" style="color: #E0E0E0;">🛠️ Languages and Tools</h3>
 <div align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,22 +44,19 @@
 </div>
 
 <!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" style="color: #E0E0E0;">📊 GitHub Stats</h3>
 <div align="center">
-  <!-- UPDATED: Dark Theme + Dark Purple Background -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=dark&hide_border=true&bg_color=0D0814" width="48%" />
-  <!-- UPDATED: Dark Theme + Dark Purple Background -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazighadja1996-debug&theme=dark&hide_border=true&bg_color=0D0814" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazighadja1996-debug&show_icons=true&theme=dark&hide_border=true&bg_color=0D0814&title_color=6A00FF&icon_color=6A00FF&text_color=E0E0E0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazighadja1996-debug&theme=dark&hide_border=true&bg_color=0D0814&title_color=6A00FF&text_color=E0E0E0" width="48%" />
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
-  <!-- FIXED URL: Changed _fzlya to /fzlya -->
   <img src="https://raw.githubusercontent.com/mazighadja1996-debug/fzlya/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <!-- Contact Section -->
-<h3 align="center">📫 Connect with Me</h3>
+<h3 align="center" style="color: #E0E0E0;">📫 Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yassine-adja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -71,5 +71,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:1A0033&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0814,100:1A0033&height=100&section=footer" width="100%" />
 </div>
