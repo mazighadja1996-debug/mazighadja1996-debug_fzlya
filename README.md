@@ -49,7 +49,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazighadja1996-debug_fzlya/github/github-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github.com/mazighadja1996-debug/mazighadja1996-debug_fzlya/blob/main/.github/workflows/main.yml" alt="Snake animation" width="100%" />
 </div>
 
 <!-- Contact Section -->
